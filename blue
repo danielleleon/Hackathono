@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <script src="script.js"> </script>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Operation Emancipation</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="/script.js" defer></script>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital@1&display=swap" rel="stylesheet">
+     <h1><img src="Operation Emancipation (1).png" alt="OpEman" class= "center"></h1>
+    
+  <body>
+
+    <!--NAV BAR  -->
+    <div class="nav">
+      <div class = "container">
+        
+      <ul class= "menu">
+        <li><a href = "#purpose">Purpose</a>
+        </li>
+        <li><a href = "#survivorStories" >Survivor Stories</a>
+        </li>
+        <li><a href = "#avoidBeingAVictom" >Avoid Becoming a Victim</a>
+        </li>
+        <li><a href ="#organizations" >Organizations</a>
+        </li>
+        <li><a href ="#aboutUs" >About Us </a>
+        </li>
+      </ul> 
+    </div>
+  </div>
+
+<!-- Purpose -->
+
+  <div class = "purpose" id = "purpose">
+    <div class="container">
+      <div1>
+      <h3>Purpose</h3>
+      <p> Under U.S. law, human trafficking is described as the transporting, soliciting, recruiting, harboring, providing or obtaining of another person for transport, for the purposes of forced labor, domestic servitude, or sexual exploitation using force, fraud and/or coercion. In other words, human trafficking is modern-day slavery. Human trafficking is a pervasive issue, affecting countries in South America to Europe. In 2016, the International Labor Organization reported that there are 40.7 million victims of human trafficking globally, and it is estimated.</p>
+      <br>
+      <p> Meanwhile, it is difficult to estimate the number of victims currently in the United States. Yet, it is estimated that between 18,000 to 20,000 victims are trafficked into the U.S. every year. 
